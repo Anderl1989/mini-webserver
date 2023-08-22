@@ -1,0 +1,18 @@
+{
+  "name": "mini-webserver",
+  "version": "1.0.0",
+  "description": "Mini webserver using express framework",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "webserver"
+  ],
+  "author": "Andreas Kasch",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
